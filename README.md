@@ -1,4 +1,6 @@
-🎨 A passionnate Web Developer with an art background!
+![Github_Readme_2022_small](https://user-images.githubusercontent.com/65663844/150649071-c2273d51-d2ac-4fa1-9d7b-66ca8551738b.png)  
+
+I'm a passionnate Web Developer with an art background!
 
 #### :sparkles: MY PROJECTS:
 
