@@ -13,9 +13,11 @@ I'm a passionnate Web Developer with an art background!
 - __Alamano__  
 👉 [Repository](https://github.com/Caro-L-dev/Alamano) | [Website](https://reverent-elion-ffce4c.netlify.app/?#)
 
+- __Anim'pedia__  
+👉 [Repository](https://github.com/Caro-L-dev/Anim-pedia)
+
 #### :construction: IN PROGRESS:
 
-- :tv: __Anim'pedia__
 - :frog: __Website Z__
 
 <h2 align="center">Web & Design</h2>
