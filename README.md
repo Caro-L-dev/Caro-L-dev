@@ -10,9 +10,11 @@ I'm a passionnate Web Developer with an art background!
 - __Portfolio__  
 👉 [Repository](https://github.com/Caro-L-dev/Portfolio-Gatsby) | [Website](https://stupefied-rosalind-49511b.netlify.app/)
 
+- __Alamano__  
+👉 [Repository](https://github.com/Caro-L-dev/Alamano) | [Website](https://reverent-elion-ffce4c.netlify.app/?#)
+
 #### :construction: IN PROGRESS:
 
-- 🦙 __Alamano__  
 - :tv: __Anim'pedia__
 - :frog: __Website Z__
 
