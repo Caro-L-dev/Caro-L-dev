@@ -18,7 +18,12 @@ I'm a passionnate Web Developer with an art background!
 
 #### :construction: IN PROGRESS:
 
-- :frog: __Website Z__
+- :frog: __Website Z__  
+👉 [Repository](https://github.com/Caro-L-dev/Multi-page-website-z)  
+
+
+- :construction: __React E-commerce__  
+👉 [Repository](https://github.com/Caro-L-dev/E-commerce)
 
 <h2 align="center">Web & Design</h2>
 <p align="center">
