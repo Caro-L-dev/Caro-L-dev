@@ -1,6 +1,9 @@
 ![Github_Readme_2022_small](https://user-images.githubusercontent.com/65663844/150649071-c2273d51-d2ac-4fa1-9d7b-66ca8551738b.png)  
 
-I'm a passionnate Web Developer with an art background!
+I'm a passionnate enthusiastic Web Developer with an art background!  
+
+Coming from a multimedia/graphic & computer science school, I'm also self-taught and passionate, I am looking for exciting challenges.  
+In addition, I am sensitive to the UX approach and I like working on responsive and multi-support issues.
 
 #### :sparkles: MY PROJECTS:
 
