@@ -7,6 +7,9 @@ In addition, I am sensitive to the UX, UI & Design approach and I like working o
 
 #### :sparkles: MY PROJECTS:
 
+- __CV 2022__  
+👉 [Repository](https://github.com/Caro-L-dev/online-cv) | [Demo](https://caro-l-dev.github.io/online-cv/) 
+
 - __Hero__  
 👉 [Repository](https://github.com/Caro-L-dev/Hero) | [Demo](https://www.youtube.com/watch?v=yRnSeJcDcPs&t=2751s)  
 
