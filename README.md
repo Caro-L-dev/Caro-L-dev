@@ -28,9 +28,6 @@ In addition, I am sensitive to the UX, UI & Design approach and I like working o
 👉 [Repository](https://github.com/Caro-L-dev/Multi-page-website-z)  
 
 
-- :construction: __React E-commerce__  
-👉 [Repository](https://github.com/Caro-L-dev/E-commerce)
-
 <h2 align="center">Web & Design</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
