@@ -14,7 +14,7 @@ In addition, I am sensitive to the UX, UI & Design approach and I like working o
 👉 [Repository](https://github.com/Caro-L-dev/Hero) | [Demo](https://www.youtube.com/watch?v=yRnSeJcDcPs&t=2751s)  
 
 - __Portfolio__  
-👉 [Repository](https://github.com/Caro-L-dev/Portfolio-Gatsby) | [Website](https://stupefied-rosalind-49511b.netlify.app/)
+👉 [Website](https://stupefied-rosalind-49511b.netlify.app/)
 
 - __Alamano__  
 👉 [Repository](https://github.com/Caro-L-dev/Alamano) | [Website](https://reverent-elion-ffce4c.netlify.app/?#)
