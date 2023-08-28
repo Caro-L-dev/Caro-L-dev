@@ -30,7 +30,7 @@ In addition, I am sensitive to the UX, UI & Design approach and I like working o
 
 <h2 align="center">Web & Design</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Jest-%23C21325?style=flat&logo=jest&logoColor=white"/>
@@ -38,8 +38,7 @@ In addition, I am sensitive to the UX, UI & Design approach and I like working o
 <br/>
 <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flate&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=black"/>
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flate&logo=Adobe%20After%20Effects&logoColor=white"/>
+<img src="https://img.shields.io/badge/After%20Effects-9999FF.svg?style=flate&logo=Adobe%20After%20Effects&logoColor=white"/>
 <img src="https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B"/>
 </p>
 
