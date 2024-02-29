@@ -8,7 +8,7 @@ In addition, I am sensitive to the UX, UI & Design approach and I like working o
 #### :sparkles: MY PORTFOLIO:
 
 - 🚀: __Here__  
-👉 [https://portfolio-dev-liard-caroline.vercel.app/]  
+👉 https://portfolio-dev-liard-caroline.vercel.app/  
 
 
 <h2 align="center">Web & Design</h2>
