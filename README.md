@@ -6,9 +6,9 @@ Coming from a multimedia/graphic & computer science school, I'm also self-taught
 In addition, I am sensitive to the UX, UI & Design approach and I like working on responsive and multi-support issues.
 
 #### :sparkles: MY PORTFOLIO:
+ 
+👉 [Website](https://portfolio-dev-liard-caroline.vercel.app/)
 
-- 🚀: __Here__  
-👉 https://portfolio-dev-liard-caroline.vercel.app/  
 
 
 <h2 align="center">Web & Design</h2>
