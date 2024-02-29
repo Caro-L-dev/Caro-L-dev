@@ -5,27 +5,10 @@ I'm a passionnate enthusiastic Web Developer with an Art background!
 Coming from a multimedia/graphic & computer science school, I'm also self-taught and passionate, I am looking for exciting challenges.  
 In addition, I am sensitive to the UX, UI & Design approach and I like working on responsive and multi-support issues.
 
-#### :sparkles: MY PROJECTS:
+#### :sparkles: MY PORTFOLIO:
 
-- __CV 2022__  
-👉 [Website](https://caro-l-dev.github.io/online-cv/) 
-
-- __Hero__  
-👉 [Repository](https://github.com/Caro-L-dev/Hero) | [Demo](https://www.youtube.com/watch?v=yRnSeJcDcPs&t=2751s)  
-
-- __Portfolio__  
-👉 [Website](https://stupefied-rosalind-49511b.netlify.app/)
-
-- __Alamano__  
-👉 [Repository](https://github.com/Caro-L-dev/Alamano) | [Website](https://reverent-elion-ffce4c.netlify.app/?#)
-
-- __Anim'pedia__  
-👉 [Repository](https://github.com/Caro-L-dev/Anim-pedia)
-
-#### :construction: IN PROGRESS:
-
-- :frog: __Website Z__  
-👉 [Repository](https://github.com/Caro-L-dev/Multi-page-website-z)  
+- 🚀: __Here__  
+👉 [(https://portfolio-dev-liard-caroline.vercel.app/)]  
 
 
 <h2 align="center">Web & Design</h2>
